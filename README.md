@@ -1,0 +1,2 @@
+# matmtdc
+MATMTDC is a free open source Matlab based program for performing dynamic analysis of AC/DC hybrid power systems. It is inspired by MatPower, a power flow and optimal power flow program in MATLAB. MATMTDC is an easy-to-use and easy-to-modify simulation tool for researchers and educators. Care has been taken to keep it well structured and easy to understand. If you have any question, please contact wanghz@szu.edu.cn for help. 
